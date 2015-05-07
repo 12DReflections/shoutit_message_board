@@ -25,6 +25,13 @@ header h1{
 	border-bottom:1px solid #ffffff;
 }
 
+.error{
+	background:red;
+	color:#ffffff;
+	padding:10px;
+	margin-bottom:20px;
+}
+
 #shouts{
 	width:90%;
 	background:#f4f4f4;
